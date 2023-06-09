@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "This repository of additional figures can be cited as below."
+authors:
+- family-names: "Carlier"
+  given-names: "Niels"
+title: "Production of free radicals in aqueous solutions by means
+of plasma treatment - Supplementary materials"
+version: 1.0.0
+date-released: 2023-06-07
+url: "https://github.com/niecarli/carlier-2023-supplementary-materials"
